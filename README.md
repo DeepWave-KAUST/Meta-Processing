@@ -76,5 +76,12 @@ sh run_meta_test.sh
 configurations may be required for different combinations of workstation and GPU. Due to the high memory consumption during the meta training phase, if your graphics card does not support large batch training, please reduce the configuration value of args (`args.k_spt` and `args.k_qry`) in the `metaprocessing/meta_train/train.py` file.
 
 ## Cite us 
-DW0017 - Cheng et al. (2023) Meta-Processing: A robust framework for multi-tasks seismic processing.
+```bibtex
+@article{cheng2024metaprocessing,
+  title={Meta-processing: a robust framework for multi-tasks seismic processing},
+  author={Cheng, Shijun, Harsuko, Randy and Alkhalifah, Tariq},
+  journal={Surveys in Geophysics},
+  year={2024},
+  publisher={Springer}
+}
 
