@@ -22,7 +22,7 @@ Download the meta-train data set [here](https://). Then, use `unzip` to extract 
 Download the meta-test data set [here](https://). Then, use `unzip` to extract the contents to `meta_test_dataset/`.
 
 * **Meta-initialization model**
-Download the meta-initialization neural network model [here](https://). Then, extract the contents to `meta_checkpoints/`.
+Download the meta-initialization neural network model [here](https://drive.google.com/drive/folders/1u5rHqHBiXxxq38UPEOFPYG7DoVOlhk5b?usp=sharing). Then, extract the contents to `meta_checkpoints/`.
 
 ## Getting started :space_invader: :robot:
 To ensure reproducibility of the results, we suggest using the `environment.yml` file when creating an environment.
