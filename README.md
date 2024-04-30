@@ -16,10 +16,10 @@ This repository is organized as follows:
 To ensure reproducibility, we provide the the data set for meta-train and meta-test stages, and the meta-initialization model for various seismic processing. In meta-train stage, we just include **Note:** If you wish to train the models from random initialization, please **do not** download and copy the meta-initialization models.
 
 * **Meta-train data set**
-Download the meta-train data set [here](https://). Then, use `unzip` to extract the contents to `meta_train_dataset/`.
+Download the meta-train data set [here](https://drive.google.com/drive/folders/1JyWOVd6ohIQR7Yw8Qf5DxIUBMFotOKmm?usp=sharing). Then, use `unzip` to extract the contents to `meta_train_dataset/`.
 
 * **Meta-test data set**
-Download the meta-test data set [here](https://). Then, use `unzip` to extract the contents to `meta_test_dataset/`.
+Download the meta-test data set [here](https://drive.google.com/drive/folders/19FZB8brT0zH-ccgH_M5ZzEg0BCIKSSK8?usp=sharing). Then, use `unzip` to extract the contents to `meta_test_dataset/`.
 
 * **Meta-initialization model**
 Download the meta-initialization neural network model [here](https://drive.google.com/drive/folders/1u5rHqHBiXxxq38UPEOFPYG7DoVOlhk5b?usp=sharing). Then, extract the contents to `meta_checkpoints/`.
