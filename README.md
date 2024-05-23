@@ -77,11 +77,11 @@ configurations may be required for different combinations of workstation and GPU
 
 ## Cite us 
 ```bibtex
-@article{cheng2024metaprocessing,
-  title={Meta-processing: a robust framework for multi-tasks seismic processing},
+@article{cheng2024meta,
+  title={Meta-processing: A robust framework for multi-tasks seismic processing},
   author={Cheng, Shijun and Harsuko, Randy and Alkhalifah, Tariq},
   journal={Surveys in Geophysics},
+  pages={1--36},
   year={2024},
   publisher={Springer}
 }
-
